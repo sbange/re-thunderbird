@@ -1,0 +1,4 @@
+<!ENTITY markdown_hereContext.label "Empfangsbestätigung">
+<!ENTITY markdown_hereContext.accesskey "k">
+<!ENTITY markdown_hereButton.label "Re:">
+<!ENTITY markdown_hereButton.tooltiptext "Empfangsbestätigung anfordern">
