@@ -1,7 +1,7 @@
 re-thunderbird
 ==============
 
-Thunderbird plugin for reverse tracking service re (see [ahx/re]http://github.com/ahx/re).
+Thunderbird plugin for reverse tracking service re (see [ahx/re](http://github.com/ahx/re)).
 
 Part of http://bremen.stadthack.de efforts to track back.
 
