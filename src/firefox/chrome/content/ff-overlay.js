@@ -179,6 +179,9 @@ var markdown_here = {
     OptionsStore.get(function(prefs) {
       // TODO sb move to method
       var url = prefs.reserver; 
+      if (!url) {
+        url = 'https://re.de.a9sapp.eu/tracker'
+      }
       var api_key = prefs.apikey; 
       var sender = gCurrentIdentity.email;
       var recipient = gMsgCompose.compFields.to;
